@@ -1,0 +1,10 @@
+/****************   find code   *******************/
+
+          <tr>
+            <td class="main"><strong><?php echo ENTRY_PAYMENT_METHOD; ?></strong></td>
+            <td class="main"><?php echo $order->info['payment_method']; ?></td>
+          </tr>
+
+/*******   Add after it this code:    ******************/
+
+          <?php require('includes/modules/tinklit_order_info.php'); ?>
