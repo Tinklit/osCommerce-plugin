@@ -24,16 +24,16 @@ La conferma del pagamento è automatica e lo status dell'ordine viene aggiornato
 
 
 
-     `:oyhssssso+/-`            sMM-      :so                 dMm`        hMN.         os:  dMN`   
-    .+mMMMhsssooooooso/`        .MMm::::`  `-.    ``-::-`     /MM+        :MMo          .-` +MMy::::
-  .+shMMMNsso+///+osssss/`      hMNyyyys  ::-   -smNNNNMNy.  `NMd  `..`   mMN`        .::. `NMmyyyy+
- :ssyNMMMyo+///+osssssssso.    :MMo      /MM+ .hMmo-.`-sMMd  oMM:`://:`  +MM/         hMN. oMM:     
--ssshMMNy////+ossssssssssso`   dMN`     `mMm``mMm.     .MMh .NNh://-`   `NMd         :MMo .NMh      
-ossyNMh+////ossssssssssssss:  +MM+      oMM/ oMM:      sMM- yNo//:`     sMM:         dMm` yMM.      
-sssdMMNo////+ssssssssssssss/ `NMd      .NMh .NMh      -MMy :MMo://-`   .MMh         +MM/ -MMs       
-osyMMMNyo////+ossssssssssss: :MMd`     yMM- yMM-      hMN. dMN` -///.  +MMy`       `NMd  oMMs`      
--smMMMhsss+////+sssssssssso` `hMMmh`  -MMs :MMs      /MMo /MM+   `://:``dMMmy ./:  sMM:  .dMMms     
- :NMMNysssso////+ossssssso.    -oyo   +yy` +yy`      oyy` syy      ----``:oy+ .// `yyo    `:oy/     
-  -dMhsssssss+////+sssss/`                                                                          
-    -+ssssssssooooooso/`            
-       .:+ossssso+/-`             
+          `:oyhssssso+/-`            sMM-      :so                 dMm`        hMN.         os:  dMN`   
+        .+mMMMhsssooooooso/`        .MMm::::`  `-.    ``-::-`     /MM+        :MMo          .-` +MMy::::
+      .+shMMMNsso+///+osssss/`      hMNyyyys  ::-   -smNNNNMNy.  `NMd  `..`   mMN`        .::. `NMmyyyy+
+     :ssyNMMMyo+///+osssssssso.    :MMo      /MM+ .hMmo-.`-sMMd  oMM:`://:`  +MM/         hMN. oMM:     
+    -ssshMMNy////+ossssssssssso`   dMN`     `mMm``mMm.     .MMh .NNh://-`   `NMd         :MMo .NMh      
+    ossyNMh+////ossssssssssssss:  +MM+      oMM/ oMM:      sMM- yNo//:`     sMM:         dMm` yMM.      
+    sssdMMNo////+ssssssssssssss/ `NMd      .NMh .NMh      -MMy :MMo://-`   .MMh         +MM/ -MMs       
+    osyMMMNyo////+ossssssssssss: :MMd`     yMM- yMM-      hMN. dMN` -///.  +MMy`       `NMd  oMMs`      
+    -smMMMhsss+////+sssssssssso` `hMMmh`  -MMs :MMs      /MMo /MM+   `://:``dMMmy ./:  sMM:  .dMMms     
+      :NMMNysssso////+ossssssso.    -oyo   +yy` +yy`      oyy` syy      ----``:oy+ .// `yyo    `:oy/     
+       -dMhsssssss+////+sssss/`                                                                          
+         -+ssssssssooooooso/`            
+            .:+ossssso+/-`             
